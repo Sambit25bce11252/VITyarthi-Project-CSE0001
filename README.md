@@ -5,6 +5,7 @@ Digital Literacy Portfolio Project for CSE0001 course at VIT Bhopal
 
 ## 👤 Student Details :
 - Name: Sambit  Kumar Garanayak
+- Reg. No: 25BCE11252
 - Branch: Computer Science and Engineering  
 - University: VIT Bhopal University  
 
