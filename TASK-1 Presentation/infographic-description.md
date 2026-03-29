@@ -1,0 +1,7 @@
+# Task 1: Description
+
+For this task, I created a digital literacy awareness infographic using Canva. The aim of the design was to present important aspects of digital literacy in a simple and visually appealing way. The infographic covers key topics such as the meaning of digital literacy, safe internet practices, email etiquette, and useful tools for students.
+
+The design explains that digital literacy is not only about using technology but also about understanding online platforms and communicating safely. It also highlights essential safety practices like using strong passwords, avoiding suspicious links, and protecting personal information. In addition, the infographic includes basic email etiquette and introduces useful tools such as Google Docs, GitHub, and online learning platforms that help students in their academic journey.
+
+While creating this infographic, I found it interesting to organize information in a structured and visually engaging format. One challenge I faced was selecting the right layout and keeping the content concise without losing important information. Overall, this task helped me understand how to effectively communicate important digital concepts through visual design.
